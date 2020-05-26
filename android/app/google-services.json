@@ -1,0 +1,144 @@
+{
+  "project_info": {
+    "project_number": "233269674933",
+    "firebase_url": "https://ionicfire-36ef1.firebaseio.com",
+    "project_id": "ionicfire-36ef1",
+    "storage_bucket": "ionicfire-36ef1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233269674933:android:37810b40f7ad799f",
+        "android_client_info": {
+          "package_name": "com.earthquakeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233269674933-5enf2dvnpifb9erci48mi2ukgdcgrfb0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.earthquakeapp",
+            "certificate_hash": "72d53ae8452d74120a901823d2e1784771277696"
+          }
+        },
+        {
+          "client_id": "233269674933-d3dbn0hdvmd603ahi4ojfhnsv7uc9dn9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrOWXA6RHowMlumVYwnzE8kuiHgW076tI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233269674933-d3dbn0hdvmd603ahi4ojfhnsv7uc9dn9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "233269674933-8iv6bv43mu20pbpi8g7u967fvsargen9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.grillo.grilloearthquakeapp"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233269674933:android:46be5704d582b77e",
+        "android_client_info": {
+          "package_name": "com.grillo.earthquakeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233269674933-d3dbn0hdvmd603ahi4ojfhnsv7uc9dn9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrOWXA6RHowMlumVYwnzE8kuiHgW076tI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233269674933:android:2af5efe044e2d164",
+        "android_client_info": {
+          "package_name": "com.ionictheme.fireionic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233269674933-tsl1g6bv2eudim8fgmq13a95mln5l820.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ionictheme.fireionic",
+            "certificate_hash": "a993c803a2b10e51409a28e90743da065004943a"
+          }
+        },
+        {
+          "client_id": "233269674933-d3dbn0hdvmd603ahi4ojfhnsv7uc9dn9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrOWXA6RHowMlumVYwnzE8kuiHgW076tI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233269674933-d3dbn0hdvmd603ahi4ojfhnsv7uc9dn9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "233269674933-8iv6bv43mu20pbpi8g7u967fvsargen9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.grillo.grilloearthquakeapp"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

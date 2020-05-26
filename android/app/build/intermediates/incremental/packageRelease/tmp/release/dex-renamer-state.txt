@@ -1,0 +1,7 @@
+#Sat Oct 13 12:43:50 IST 2018
+base.0=D\:\\React Native\\EarthquakeApp\\Grillo\\android\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=D\:\\React Native\\EarthquakeApp\\Grillo\\android\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0

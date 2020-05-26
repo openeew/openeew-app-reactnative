@@ -1,0 +1,3 @@
+# Referenced at D:\React Native\EarthquakeApp\Grillo\android\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:44
+-keep class com.grillo.earthquakeapp.MainApplication { <init>(...); }
+

@@ -1,0 +1,761 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml:1:1-64:12
+INJECTED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml:1:1-64:12
+INJECTED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml:1:1-64:12
+INJECTED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml:1:1-64:12
+MERGED from [:react-native-twitter-signin] D:\React Native\EarthquakeApp\Grillo\node_modules\react-native-twitter-signin\android\build\intermediates\manifests\full\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] D:\React Native\EarthquakeApp\Grillo\node_modules\react-native-vector-icons\android\build\intermediates\manifests\full\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-splash-screen] D:\React Native\EarthquakeApp\Grillo\node_modules\react-native-splash-screen\android\build\intermediates\manifests\full\release\AndroidManifest.xml:2:1-14:12
+MERGED from [:react-native-linear-gradient] D:\React Native\EarthquakeApp\Grillo\node_modules\react-native-linear-gradient\android\build\intermediates\manifests\full\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-google-signin] D:\React Native\EarthquakeApp\Grillo\node_modules\react-native-google-signin\android\build\intermediates\manifests\full\release\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\ce9310cf951d1f587c56a4c807af6b1c\AndroidManifest.xml:17:1-39:12
+MERGED from [:react-native-firebase] D:\React Native\EarthquakeApp\Grillo\node_modules\react-native-firebase\android\build\intermediates\manifests\full\release\AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.firebase:firebase-auth:16.0.3] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.3.aar\c342245f9a71bb852ae451726e53d1f6\AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.firebase:firebase-firestore:17.1.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-firestore-17.1.0.aar\05d9b03db755c6b494331582897db162\AndroidManifest.xml:2:1-21:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-15.0.1.aar\11c6628573680da6e97f7ab81c900eef\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:15.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-15.0.1.aar\6f06c0f8431863da0ddc9f63b08edade\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\90c9423c2874576a05d82078593669ee\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.0.aar\a4968deefd9ddcc59ebab9b3a2002c70\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-messaging:17.3.2] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-messaging-17.3.2.aar\d702ccc03a0b2da154423f8d9d4d1128\AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-core:16.0.3] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.3.aar\cc8709decb64fb1197251fd85c57a40b\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.1.aar\bea1780063152c1def0ab57cb2ba70bd\AndroidManifest.xml:17:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:16.0.3] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.3.aar\981434b647624d221cccfaa9e10e1e0e\AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.0.1.aar\d30017250c30cd999898cc64087e8e9c\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.1.aar\6bd56757cdb62b650ecdea108328511a\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:17.0.2] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.2.aar\a1aaada05b9a93ccd26d92d7e1a22a5b\AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.0.aar\5313c465f774a882310b97a95fe8d493\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\23a745de5d2a12d7ed4783b19c99ddc0\AndroidManifest.xml:17:1-29:12
+MERGED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.21.aar\941a3b1b221470e6e1d0c86e62903383\AndroidManifest.xml:2:1-52:12
+MERGED from [:react-native-fbsdk] D:\React Native\EarthquakeApp\Grillo\node_modules\react-native-fbsdk\android\build\intermediates\manifests\full\release\AndroidManifest.xml:21:1-30:12
+MERGED from [com.facebook.react:react-native:0.57.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\react-native-0.57.1.aar\f367c1e762f8f5b82c96e7f01925a253\AndroidManifest.xml:2:1-15:12
+MERGED from [com.facebook.android:facebook-android-sdk:4.34.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.34.0.aar\5c2888a1e7454e11077b49423bf15bfd\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-login:4.34.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\facebook-login-4.34.0.aar\251ceb3479b2d7b90b066af4ca020730\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-share:4.34.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\facebook-share-4.34.0.aar\64989a1734c4b14fbc2988809c2591c1\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-common:4.34.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\facebook-common-4.34.0.aar\8ec87dc9bb3c22c5e5fef15fe77ee3cc\AndroidManifest.xml:21:1-37:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\7883b8576418afeb9a394b5c3266d10b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\b2f963e36755491d8e463086ace42417\AndroidManifest.xml:17:1-22:12
+MERGED from [com.twitter.sdk.android:twitter-core:3.0.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\twitter-core-3.0.0.aar\8b8dddd7a76f997de19c083d58b74dd3\AndroidManifest.xml:18:1-35:12
+MERGED from [com.google.firebase:firebase-common:16.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.1.aar\9be343a219e6a19d94b060f65bd3fa4b\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\5eef18d1d7defc2b74469e8dbb7029a5\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-database-collection:15.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-15.0.1.aar\bc270793a43724950be0b2391ef70e4d\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\play-services-stats-15.0.1.aar\1e73487aa3b070ef7951f0173ce7cd95\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\1f27a67a9096b56a0398d1c5a7fb2fb3\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.0.aar\201c5169c161bc141e61ebda3807fd50\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\b1401747d8eebfbe362e5a7b6e2eb263\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\92fea56530a1bcdaa48e085f2b07f8dc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customtabs:27.0.2] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\customtabs-27.0.2.aar\a32b94c3b0e289acce7f8a5d0070da02\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\f0ebaecf3ebe62e672b1b0bfbd90fe91\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\75ff360f213bd7ab387cbfd1bd3eb380\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\61874dc233468ae1286a425004948f7f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\49c86e1e0c022f4a8fcddb3ef59e1fd4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\31818513a8c575a13c9ee395c5c82a80\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.android:facebook-places:4.34.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\facebook-places-4.34.0.aar\c3071ac39edf72e0281689d06df74eb9\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-applinks:4.34.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\facebook-applinks-4.34.0.aar\ce14bf2edef1d5ebd94265dc5096ab1c\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-messenger:4.34.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\facebook-messenger-4.34.0.aar\a8c9c93a13500174fe63dd744c3a1fbe\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-marketing:4.34.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\facebook-marketing-4.34.0.aar\0f64c45f4bdb37c70c198cb94c2a0494\AndroidManifest.xml:21:1-35:12
+MERGED from [com.facebook.android:facebook-core:4.34.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\facebook-core-4.34.0.aar\882216bc37cbe66f453514d79f029226\AndroidManifest.xml:21:1-53:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\b12cbd16406d153b686da9725cdf82dc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\44f0e0ac7987b56d6c12f8e4c16a7ebc\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\10049d89df8db2b0e5ac4c3255e7057a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\protolite-well-known-types-16.0.0.aar\cdacd1ee95e63479ca687bf25af2ca4f\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\a1b59fb452ace0beb2a374260f039e07\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\d07327a179f2e4148653586921d2a201\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\bc1218775d6fd0ff3b7f6d6929771b09\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\b9cdd5d23b6e029f33fb8a10191bada8\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\e597a66150e22f8e4ee89ab00f2422d3\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\e77343599a9278b1379a9712c079e03e\AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\f929b4e1c0b15585be7a3af8dcf3fe48\AndroidManifest.xml:1:1-3:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.2] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.2.aar\c95513a8458fa8b5476dc60f61af29fd\AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\cc19532a5b6b254ee6015c0b42861495\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\11b908f95fb992ec43210f482c3d8818\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\3da72c6c51d40de0f1e6756b6050c8a4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\7f64704676bc7eb4c1d3089359519e2f\AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\a3e43f42650442670a09510f72506d5c\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml:1:1-64:12
+INJECTED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml:1:1-64:12
+INJECTED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml:1:1-64:12
+	package
+		ADDED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml:1:1-64:12
+		INJECTED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml:2:1-47
+	android:versionCode
+		INJECTED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml:1:1-64:12
+		INJECTED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [:react-native-firebase] D:\React Native\EarthquakeApp\Grillo\node_modules\react-native-firebase\android\build\intermediates\manifests\full\release\AndroidManifest.xml:11:5-67
+MERGED from [:react-native-firebase] D:\React Native\EarthquakeApp\Grillo\node_modules\react-native-firebase\android\build\intermediates\manifests\full\release\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-firestore:17.1.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-firestore-17.1.0.aar\05d9b03db755c6b494331582897db162\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-firestore:17.1.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-firestore-17.1.0.aar\05d9b03db755c6b494331582897db162\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.1.aar\bea1780063152c1def0ab57cb2ba70bd\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.1.aar\bea1780063152c1def0ab57cb2ba70bd\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.3] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.3.aar\981434b647624d221cccfaa9e10e1e0e\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.3] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.3.aar\981434b647624d221cccfaa9e10e1e0e\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.1.aar\6bd56757cdb62b650ecdea108328511a\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.1.aar\6bd56757cdb62b650ecdea108328511a\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.2] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.2.aar\a1aaada05b9a93ccd26d92d7e1a22a5b\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.2] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.2.aar\a1aaada05b9a93ccd26d92d7e1a22a5b\AndroidManifest.xml:23:5-67
+MERGED from [com.twitter.sdk.android:twitter-core:3.0.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\twitter-core-3.0.0.aar\8b8dddd7a76f997de19c083d58b74dd3\AndroidManifest.xml:25:5-67
+MERGED from [com.twitter.sdk.android:twitter-core:3.0.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\twitter-core-3.0.0.aar\8b8dddd7a76f997de19c083d58b74dd3\AndroidManifest.xml:25:5-67
+	android:name
+		ADDED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml:6:5-77
+MERGED from [com.facebook.react:react-native:0.57.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\react-native-0.57.1.aar\f367c1e762f8f5b82c96e7f01925a253\AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\react-native-0.57.1.aar\f367c1e762f8f5b82c96e7f01925a253\AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml:6:22-75
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml:9:5-66
+	android:name
+		ADDED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml:9:22-63
+application
+ADDED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml:11:5-62:19
+MERGED from [:react-native-splash-screen] D:\React Native\EarthquakeApp\Grillo\node_modules\react-native-splash-screen\android\build\intermediates\manifests\full\release\AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-splash-screen] D:\React Native\EarthquakeApp\Grillo\node_modules\react-native-splash-screen\android\build\intermediates\manifests\full\release\AndroidManifest.xml:11:5-12:19
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\ce9310cf951d1f587c56a4c807af6b1c\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\ce9310cf951d1f587c56a4c807af6b1c\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.firebase:firebase-auth:16.0.3] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.3.aar\c342245f9a71bb852ae451726e53d1f6\AndroidManifest.xml:22:5-36:19
+MERGED from [com.google.firebase:firebase-auth:16.0.3] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.3.aar\c342245f9a71bb852ae451726e53d1f6\AndroidManifest.xml:22:5-36:19
+MERGED from [com.google.firebase:firebase-firestore:17.1.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-firestore-17.1.0.aar\05d9b03db755c6b494331582897db162\AndroidManifest.xml:13:5-19:19
+MERGED from [com.google.firebase:firebase-firestore:17.1.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-firestore-17.1.0.aar\05d9b03db755c6b494331582897db162\AndroidManifest.xml:13:5-19:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.0.aar\a4968deefd9ddcc59ebab9b3a2002c70\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.0.aar\a4968deefd9ddcc59ebab9b3a2002c70\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-messaging:17.3.2] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-messaging-17.3.2.aar\d702ccc03a0b2da154423f8d9d4d1128\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:17.3.2] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-messaging-17.3.2.aar\d702ccc03a0b2da154423f8d9d4d1128\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-core:16.0.3] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.3.aar\cc8709decb64fb1197251fd85c57a40b\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.3] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.3.aar\cc8709decb64fb1197251fd85c57a40b\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.1.aar\bea1780063152c1def0ab57cb2ba70bd\AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.1.aar\bea1780063152c1def0ab57cb2ba70bd\AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.3] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.3.aar\981434b647624d221cccfaa9e10e1e0e\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.3] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.3.aar\981434b647624d221cccfaa9e10e1e0e\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.0.1.aar\d30017250c30cd999898cc64087e8e9c\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.0.1.aar\d30017250c30cd999898cc64087e8e9c\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.1.aar\6bd56757cdb62b650ecdea108328511a\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.1.aar\6bd56757cdb62b650ecdea108328511a\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-iid:17.0.2] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.2.aar\a1aaada05b9a93ccd26d92d7e1a22a5b\AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid:17.0.2] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.2.aar\a1aaada05b9a93ccd26d92d7e1a22a5b\AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.0.aar\5313c465f774a882310b97a95fe8d493\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.0.aar\5313c465f774a882310b97a95fe8d493\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\23a745de5d2a12d7ed4783b19c99ddc0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\23a745de5d2a12d7ed4783b19c99ddc0\AndroidManifest.xml:22:5-27:19
+MERGED from [:react-native-fbsdk] D:\React Native\EarthquakeApp\Grillo\node_modules\react-native-fbsdk\android\build\intermediates\manifests\full\release\AndroidManifest.xml:28:5-20
+MERGED from [:react-native-fbsdk] D:\React Native\EarthquakeApp\Grillo\node_modules\react-native-fbsdk\android\build\intermediates\manifests\full\release\AndroidManifest.xml:28:5-20
+MERGED from [com.facebook.react:react-native:0.57.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\react-native-0.57.1.aar\f367c1e762f8f5b82c96e7f01925a253\AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\react-native-0.57.1.aar\f367c1e762f8f5b82c96e7f01925a253\AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.android:facebook-android-sdk:4.34.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.34.0.aar\5c2888a1e7454e11077b49423bf15bfd\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.34.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.34.0.aar\5c2888a1e7454e11077b49423bf15bfd\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.34.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\facebook-login-4.34.0.aar\251ceb3479b2d7b90b066af4ca020730\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.34.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\facebook-login-4.34.0.aar\251ceb3479b2d7b90b066af4ca020730\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.34.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\facebook-share-4.34.0.aar\64989a1734c4b14fbc2988809c2591c1\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.34.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\facebook-share-4.34.0.aar\64989a1734c4b14fbc2988809c2591c1\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:4.34.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\facebook-common-4.34.0.aar\8ec87dc9bb3c22c5e5fef15fe77ee3cc\AndroidManifest.xml:28:5-35:19
+MERGED from [com.facebook.android:facebook-common:4.34.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\facebook-common-4.34.0.aar\8ec87dc9bb3c22c5e5fef15fe77ee3cc\AndroidManifest.xml:28:5-35:19
+MERGED from [com.twitter.sdk.android:twitter-core:3.0.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\twitter-core-3.0.0.aar\8b8dddd7a76f997de19c083d58b74dd3\AndroidManifest.xml:27:5-33:19
+MERGED from [com.twitter.sdk.android:twitter-core:3.0.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\twitter-core-3.0.0.aar\8b8dddd7a76f997de19c083d58b74dd3\AndroidManifest.xml:27:5-33:19
+MERGED from [com.google.firebase:firebase-common:16.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.1.aar\9be343a219e6a19d94b060f65bd3fa4b\AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-common:16.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.1.aar\9be343a219e6a19d94b060f65bd3fa4b\AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\5eef18d1d7defc2b74469e8dbb7029a5\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\5eef18d1d7defc2b74469e8dbb7029a5\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\play-services-stats-15.0.1.aar\1e73487aa3b070ef7951f0173ce7cd95\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\play-services-stats-15.0.1.aar\1e73487aa3b070ef7951f0173ce7cd95\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\1f27a67a9096b56a0398d1c5a7fb2fb3\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\1f27a67a9096b56a0398d1c5a7fb2fb3\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.0.aar\201c5169c161bc141e61ebda3807fd50\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.0.aar\201c5169c161bc141e61ebda3807fd50\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\b1401747d8eebfbe362e5a7b6e2eb263\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\b1401747d8eebfbe362e5a7b6e2eb263\AndroidManifest.xml:22:5-26:19
+MERGED from [com.facebook.android:facebook-places:4.34.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\facebook-places-4.34.0.aar\c3071ac39edf72e0281689d06df74eb9\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-places:4.34.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\facebook-places-4.34.0.aar\c3071ac39edf72e0281689d06df74eb9\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.34.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\facebook-applinks-4.34.0.aar\ce14bf2edef1d5ebd94265dc5096ab1c\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.34.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\facebook-applinks-4.34.0.aar\ce14bf2edef1d5ebd94265dc5096ab1c\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.34.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\facebook-messenger-4.34.0.aar\a8c9c93a13500174fe63dd744c3a1fbe\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.34.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\facebook-messenger-4.34.0.aar\a8c9c93a13500174fe63dd744c3a1fbe\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-marketing:4.34.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\facebook-marketing-4.34.0.aar\0f64c45f4bdb37c70c198cb94c2a0494\AndroidManifest.xml:28:5-33:19
+MERGED from [com.facebook.android:facebook-marketing:4.34.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\facebook-marketing-4.34.0.aar\0f64c45f4bdb37c70c198cb94c2a0494\AndroidManifest.xml:28:5-33:19
+MERGED from [com.facebook.android:facebook-core:4.34.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\facebook-core-4.34.0.aar\882216bc37cbe66f453514d79f029226\AndroidManifest.xml:28:5-51:19
+MERGED from [com.facebook.android:facebook-core:4.34.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\facebook-core-4.34.0.aar\882216bc37cbe66f453514d79f029226\AndroidManifest.xml:28:5-51:19
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\e77343599a9278b1379a9712c079e03e\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\e77343599a9278b1379a9712c079e03e\AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\f929b4e1c0b15585be7a3af8dcf3fe48\AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\f929b4e1c0b15585be7a3af8dcf3fe48\AndroidManifest.xml:2:3-17
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.2] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.2.aar\c95513a8458fa8b5476dc60f61af29fd\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.2] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.2.aar\c95513a8458fa8b5476dc60f61af29fd\AndroidManifest.xml:7:5-20
+	android:supportsRtl
+		ADDED from [com.facebook.android:facebook-android-sdk:4.34.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.34.0.aar\5c2888a1e7454e11077b49423bf15bfd\AndroidManifest.xml:28:18-44
+	android:label
+		ADDED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml:13:7-39
+	android:icon
+		ADDED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml:14:7-41
+	android:allowBackup
+		ADDED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml:15:7-34
+	android:theme
+		ADDED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml:16:7-38
+	android:name
+		ADDED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml:12:7-38
+activity#com.grillo.earthquakeapp.MainActivity
+ADDED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml:17:7-28:18
+	android:screenOrientation
+		ADDED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml:22:9-45
+	android:label
+		ADDED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml:19:9-41
+	android:launchMode
+		ADDED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml:23:9-39
+	android:windowSoftInputMode
+		ADDED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml:21:9-51
+	android:configChanges
+		ADDED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml:20:9-79
+	android:name
+		ADDED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml:18:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml:24:9-27:25
+action#android.intent.action.MAIN
+ADDED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml:25:13-65
+	android:name
+		ADDED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml:25:21-62
+category#android.intent.category.LAUNCHER
+ADDED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml:26:13-73
+	android:name
+		ADDED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml:26:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml:29:7-84
+	android:name
+		ADDED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml:29:17-81
+service#io.invertase.firebase.messaging.RNFirebaseMessagingService
+ADDED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml:31:7-35:17
+	android:name
+		ADDED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml:31:16-89
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml:32:9-34:25
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml:33:11-72
+	android:name
+		ADDED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml:33:19-69
+service#io.invertase.firebase.messaging.RNFirebaseInstanceIdService
+ADDED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml:36:7-40:17
+	android:name
+		ADDED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml:36:16-90
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml:37:9-39:25
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml:38:11-73
+	android:name
+		ADDED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml:38:19-71
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml:42:7-44:49
+	tools:replace
+		ADDED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml:43:8-37
+	android:value
+		ADDED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml:44:8-47
+	android:name
+		ADDED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml:42:18-63
+activity#com.facebook.FacebookActivity
+ADDED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml:47:5-50:44
+MERGED from [com.facebook.android:facebook-common:4.34.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\facebook-common-4.34.0.aar\8ec87dc9bb3c22c5e5fef15fe77ee3cc\AndroidManifest.xml:29:9-32:66
+MERGED from [com.facebook.android:facebook-common:4.34.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\facebook-common-4.34.0.aar\8ec87dc9bb3c22c5e5fef15fe77ee3cc\AndroidManifest.xml:29:9-32:66
+	android:label
+		ADDED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml:50:9-41
+	android:configChanges
+		ADDED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml:48:9-109
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:4.34.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\facebook-common-4.34.0.aar\8ec87dc9bb3c22c5e5fef15fe77ee3cc\AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml:47:15-59
+activity#com.facebook.CustomTabActivity
+ADDED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml:51:5-60:16
+MERGED from [com.facebook.android:facebook-common:4.34.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\facebook-common-4.34.0.aar\8ec87dc9bb3c22c5e5fef15fe77ee3cc\AndroidManifest.xml:34:9-67
+MERGED from [com.facebook.android:facebook-common:4.34.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\facebook-common-4.34.0.aar\8ec87dc9bb3c22c5e5fef15fe77ee3cc\AndroidManifest.xml:34:9-67
+	android:exported
+		ADDED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml:53:9-32
+	android:name
+		ADDED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml:52:9-54
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:@string/fb_login_protocol_scheme
+ADDED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml:54:9-59:25
+action#android.intent.action.VIEW
+ADDED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml:55:13-65
+	android:name
+		ADDED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml:55:21-62
+category#android.intent.category.DEFAULT
+ADDED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml:56:13-72
+	android:name
+		ADDED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml:56:23-69
+category#android.intent.category.BROWSABLE
+ADDED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml:57:13-74
+	android:name
+		ADDED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml:57:23-71
+data
+ADDED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml:58:13-71
+	android:scheme
+		ADDED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml:58:19-68
+uses-sdk
+INJECTED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-twitter-signin] D:\React Native\EarthquakeApp\Grillo\node_modules\react-native-twitter-signin\android\build\intermediates\manifests\full\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-twitter-signin] D:\React Native\EarthquakeApp\Grillo\node_modules\react-native-twitter-signin\android\build\intermediates\manifests\full\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] D:\React Native\EarthquakeApp\Grillo\node_modules\react-native-vector-icons\android\build\intermediates\manifests\full\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] D:\React Native\EarthquakeApp\Grillo\node_modules\react-native-vector-icons\android\build\intermediates\manifests\full\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] D:\React Native\EarthquakeApp\Grillo\node_modules\react-native-splash-screen\android\build\intermediates\manifests\full\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] D:\React Native\EarthquakeApp\Grillo\node_modules\react-native-splash-screen\android\build\intermediates\manifests\full\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] D:\React Native\EarthquakeApp\Grillo\node_modules\react-native-linear-gradient\android\build\intermediates\manifests\full\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] D:\React Native\EarthquakeApp\Grillo\node_modules\react-native-linear-gradient\android\build\intermediates\manifests\full\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-google-signin] D:\React Native\EarthquakeApp\Grillo\node_modules\react-native-google-signin\android\build\intermediates\manifests\full\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-google-signin] D:\React Native\EarthquakeApp\Grillo\node_modules\react-native-google-signin\android\build\intermediates\manifests\full\release\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\ce9310cf951d1f587c56a4c807af6b1c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\ce9310cf951d1f587c56a4c807af6b1c\AndroidManifest.xml:20:5-44
+MERGED from [:react-native-firebase] D:\React Native\EarthquakeApp\Grillo\node_modules\react-native-firebase\android\build\intermediates\manifests\full\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase] D:\React Native\EarthquakeApp\Grillo\node_modules\react-native-firebase\android\build\intermediates\manifests\full\release\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-auth:16.0.3] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.3.aar\c342245f9a71bb852ae451726e53d1f6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:16.0.3] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.3.aar\c342245f9a71bb852ae451726e53d1f6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-firestore:17.1.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-firestore-17.1.0.aar\05d9b03db755c6b494331582897db162\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-firestore:17.1.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-firestore-17.1.0.aar\05d9b03db755c6b494331582897db162\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-15.0.1.aar\11c6628573680da6e97f7ab81c900eef\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-15.0.1.aar\11c6628573680da6e97f7ab81c900eef\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:15.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-15.0.1.aar\6f06c0f8431863da0ddc9f63b08edade\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:15.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-15.0.1.aar\6f06c0f8431863da0ddc9f63b08edade\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\90c9423c2874576a05d82078593669ee\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\90c9423c2874576a05d82078593669ee\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.0.aar\a4968deefd9ddcc59ebab9b3a2002c70\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.0.aar\a4968deefd9ddcc59ebab9b3a2002c70\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-messaging:17.3.2] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-messaging-17.3.2.aar\d702ccc03a0b2da154423f8d9d4d1128\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:17.3.2] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-messaging-17.3.2.aar\d702ccc03a0b2da154423f8d9d4d1128\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.3] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.3.aar\cc8709decb64fb1197251fd85c57a40b\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.3] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.3.aar\cc8709decb64fb1197251fd85c57a40b\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.1.aar\bea1780063152c1def0ab57cb2ba70bd\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.1.aar\bea1780063152c1def0ab57cb2ba70bd\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.3] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.3.aar\981434b647624d221cccfaa9e10e1e0e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.3] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.3.aar\981434b647624d221cccfaa9e10e1e0e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.0.1.aar\d30017250c30cd999898cc64087e8e9c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.0.1.aar\d30017250c30cd999898cc64087e8e9c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.1.aar\6bd56757cdb62b650ecdea108328511a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.1.aar\6bd56757cdb62b650ecdea108328511a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.2] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.2.aar\a1aaada05b9a93ccd26d92d7e1a22a5b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.2] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.2.aar\a1aaada05b9a93ccd26d92d7e1a22a5b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.0.aar\5313c465f774a882310b97a95fe8d493\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.0.aar\5313c465f774a882310b97a95fe8d493\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\23a745de5d2a12d7ed4783b19c99ddc0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\23a745de5d2a12d7ed4783b19c99ddc0\AndroidManifest.xml:20:5-44
+MERGED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.21.aar\941a3b1b221470e6e1d0c86e62903383\AndroidManifest.xml:7:5-9:41
+MERGED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.21.aar\941a3b1b221470e6e1d0c86e62903383\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fbsdk] D:\React Native\EarthquakeApp\Grillo\node_modules\react-native-fbsdk\android\build\intermediates\manifests\full\release\AndroidManifest.xml:24:5-26:41
+MERGED from [:react-native-fbsdk] D:\React Native\EarthquakeApp\Grillo\node_modules\react-native-fbsdk\android\build\intermediates\manifests\full\release\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.react:react-native:0.57.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\react-native-0.57.1.aar\f367c1e762f8f5b82c96e7f01925a253\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\react-native-0.57.1.aar\f367c1e762f8f5b82c96e7f01925a253\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.34.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.34.0.aar\5c2888a1e7454e11077b49423bf15bfd\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.34.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.34.0.aar\5c2888a1e7454e11077b49423bf15bfd\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.34.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\facebook-login-4.34.0.aar\251ceb3479b2d7b90b066af4ca020730\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.34.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\facebook-login-4.34.0.aar\251ceb3479b2d7b90b066af4ca020730\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.34.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\facebook-share-4.34.0.aar\64989a1734c4b14fbc2988809c2591c1\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.34.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\facebook-share-4.34.0.aar\64989a1734c4b14fbc2988809c2591c1\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.34.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\facebook-common-4.34.0.aar\8ec87dc9bb3c22c5e5fef15fe77ee3cc\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.34.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\facebook-common-4.34.0.aar\8ec87dc9bb3c22c5e5fef15fe77ee3cc\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\7883b8576418afeb9a394b5c3266d10b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\7883b8576418afeb9a394b5c3266d10b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\b2f963e36755491d8e463086ace42417\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\b2f963e36755491d8e463086ace42417\AndroidManifest.xml:20:5-43
+MERGED from [com.twitter.sdk.android:twitter-core:3.0.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\twitter-core-3.0.0.aar\8b8dddd7a76f997de19c083d58b74dd3\AndroidManifest.xml:23:5-44
+MERGED from [com.twitter.sdk.android:twitter-core:3.0.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\twitter-core-3.0.0.aar\8b8dddd7a76f997de19c083d58b74dd3\AndroidManifest.xml:23:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.1.aar\9be343a219e6a19d94b060f65bd3fa4b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:16.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.1.aar\9be343a219e6a19d94b060f65bd3fa4b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\5eef18d1d7defc2b74469e8dbb7029a5\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\5eef18d1d7defc2b74469e8dbb7029a5\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:15.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-15.0.1.aar\bc270793a43724950be0b2391ef70e4d\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-collection:15.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-15.0.1.aar\bc270793a43724950be0b2391ef70e4d\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\play-services-stats-15.0.1.aar\1e73487aa3b070ef7951f0173ce7cd95\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\play-services-stats-15.0.1.aar\1e73487aa3b070ef7951f0173ce7cd95\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\1f27a67a9096b56a0398d1c5a7fb2fb3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\1f27a67a9096b56a0398d1c5a7fb2fb3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.0.aar\201c5169c161bc141e61ebda3807fd50\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.0.aar\201c5169c161bc141e61ebda3807fd50\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\b1401747d8eebfbe362e5a7b6e2eb263\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\b1401747d8eebfbe362e5a7b6e2eb263\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\92fea56530a1bcdaa48e085f2b07f8dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\92fea56530a1bcdaa48e085f2b07f8dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\customtabs-27.0.2.aar\a32b94c3b0e289acce7f8a5d0070da02\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\customtabs-27.0.2.aar\a32b94c3b0e289acce7f8a5d0070da02\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\f0ebaecf3ebe62e672b1b0bfbd90fe91\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\f0ebaecf3ebe62e672b1b0bfbd90fe91\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\75ff360f213bd7ab387cbfd1bd3eb380\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\75ff360f213bd7ab387cbfd1bd3eb380\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\61874dc233468ae1286a425004948f7f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\61874dc233468ae1286a425004948f7f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\49c86e1e0c022f4a8fcddb3ef59e1fd4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\49c86e1e0c022f4a8fcddb3ef59e1fd4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\31818513a8c575a13c9ee395c5c82a80\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\31818513a8c575a13c9ee395c5c82a80\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-places:4.34.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\facebook-places-4.34.0.aar\c3071ac39edf72e0281689d06df74eb9\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-places:4.34.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\facebook-places-4.34.0.aar\c3071ac39edf72e0281689d06df74eb9\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.34.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\facebook-applinks-4.34.0.aar\ce14bf2edef1d5ebd94265dc5096ab1c\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.34.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\facebook-applinks-4.34.0.aar\ce14bf2edef1d5ebd94265dc5096ab1c\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.34.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\facebook-messenger-4.34.0.aar\a8c9c93a13500174fe63dd744c3a1fbe\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.34.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\facebook-messenger-4.34.0.aar\a8c9c93a13500174fe63dd744c3a1fbe\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-marketing:4.34.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\facebook-marketing-4.34.0.aar\0f64c45f4bdb37c70c198cb94c2a0494\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-marketing:4.34.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\facebook-marketing-4.34.0.aar\0f64c45f4bdb37c70c198cb94c2a0494\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.34.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\facebook-core-4.34.0.aar\882216bc37cbe66f453514d79f029226\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.34.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\facebook-core-4.34.0.aar\882216bc37cbe66f453514d79f029226\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\b12cbd16406d153b686da9725cdf82dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\b12cbd16406d153b686da9725cdf82dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\44f0e0ac7987b56d6c12f8e4c16a7ebc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\44f0e0ac7987b56d6c12f8e4c16a7ebc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\10049d89df8db2b0e5ac4c3255e7057a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\10049d89df8db2b0e5ac4c3255e7057a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\protolite-well-known-types-16.0.0.aar\cdacd1ee95e63479ca687bf25af2ca4f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\protolite-well-known-types-16.0.0.aar\cdacd1ee95e63479ca687bf25af2ca4f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\a1b59fb452ace0beb2a374260f039e07\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\a1b59fb452ace0beb2a374260f039e07\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\d07327a179f2e4148653586921d2a201\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\d07327a179f2e4148653586921d2a201\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\bc1218775d6fd0ff3b7f6d6929771b09\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\bc1218775d6fd0ff3b7f6d6929771b09\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\b9cdd5d23b6e029f33fb8a10191bada8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\b9cdd5d23b6e029f33fb8a10191bada8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\e597a66150e22f8e4ee89ab00f2422d3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\e597a66150e22f8e4ee89ab00f2422d3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\e77343599a9278b1379a9712c079e03e\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\e77343599a9278b1379a9712c079e03e\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.2] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.2.aar\c95513a8458fa8b5476dc60f61af29fd\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.2] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.2.aar\c95513a8458fa8b5476dc60f61af29fd\AndroidManifest.xml:5:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\cc19532a5b6b254ee6015c0b42861495\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\cc19532a5b6b254ee6015c0b42861495\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\11b908f95fb992ec43210f482c3d8818\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\11b908f95fb992ec43210f482c3d8818\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\3da72c6c51d40de0f1e6756b6050c8a4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\3da72c6c51d40de0f1e6756b6050c8a4\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\7f64704676bc7eb4c1d3089359519e2f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\7f64704676bc7eb4c1d3089359519e2f\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\a3e43f42650442670a09510f72506d5c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\a3e43f42650442670a09510f72506d5c\AndroidManifest.xml:20:5-44
+INJECTED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\ce9310cf951d1f587c56a4c807af6b1c\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\ce9310cf951d1f587c56a4c807af6b1c\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\ce9310cf951d1f587c56a4c807af6b1c\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\ce9310cf951d1f587c56a4c807af6b1c\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\ce9310cf951d1f587c56a4c807af6b1c\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\ce9310cf951d1f587c56a4c807af6b1c\AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\ce9310cf951d1f587c56a4c807af6b1c\AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\ce9310cf951d1f587c56a4c807af6b1c\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\ce9310cf951d1f587c56a4c807af6b1c\AndroidManifest.xml:34:13-89
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:react-native-firebase] D:\React Native\EarthquakeApp\Grillo\node_modules\react-native-firebase\android\build\intermediates\manifests\full\release\AndroidManifest.xml:12:5-68
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.1.aar\bea1780063152c1def0ab57cb2ba70bd\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.1.aar\bea1780063152c1def0ab57cb2ba70bd\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.3] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.3.aar\981434b647624d221cccfaa9e10e1e0e\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.3] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.3.aar\981434b647624d221cccfaa9e10e1e0e\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.1.aar\6bd56757cdb62b650ecdea108328511a\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.1.aar\6bd56757cdb62b650ecdea108328511a\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.2] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.2.aar\a1aaada05b9a93ccd26d92d7e1a22a5b\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.2] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.2.aar\a1aaada05b9a93ccd26d92d7e1a22a5b\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [:react-native-firebase] D:\React Native\EarthquakeApp\Grillo\node_modules\react-native-firebase\android\build\intermediates\manifests\full\release\AndroidManifest.xml:12:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:react-native-firebase] D:\React Native\EarthquakeApp\Grillo\node_modules\react-native-firebase\android\build\intermediates\manifests\full\release\AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-firestore:17.1.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-firestore-17.1.0.aar\05d9b03db755c6b494331582897db162\AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-firestore:17.1.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-firestore-17.1.0.aar\05d9b03db755c6b494331582897db162\AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.1.aar\bea1780063152c1def0ab57cb2ba70bd\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.1.aar\bea1780063152c1def0ab57cb2ba70bd\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.3] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.3.aar\981434b647624d221cccfaa9e10e1e0e\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.3] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.3.aar\981434b647624d221cccfaa9e10e1e0e\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.1.aar\6bd56757cdb62b650ecdea108328511a\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.1.aar\6bd56757cdb62b650ecdea108328511a\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.2] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.2.aar\a1aaada05b9a93ccd26d92d7e1a22a5b\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.2] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.2.aar\a1aaada05b9a93ccd26d92d7e1a22a5b\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [:react-native-firebase] D:\React Native\EarthquakeApp\Grillo\node_modules\react-native-firebase\android\build\intermediates\manifests\full\release\AndroidManifest.xml:13:22-76
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:16.0.3] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.3.aar\c342245f9a71bb852ae451726e53d1f6\AndroidManifest.xml:23:9-29:75
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:16.0.3] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.3.aar\c342245f9a71bb852ae451726e53d1f6\AndroidManifest.xml:25:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:16.0.3] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.3.aar\c342245f9a71bb852ae451726e53d1f6\AndroidManifest.xml:27:13-48
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.0.3] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.3.aar\c342245f9a71bb852ae451726e53d1f6\AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:16.0.3] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.3.aar\c342245f9a71bb852ae451726e53d1f6\AndroidManifest.xml:28:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:16.0.3] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.3.aar\c342245f9a71bb852ae451726e53d1f6\AndroidManifest.xml:29:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.3] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.3.aar\c342245f9a71bb852ae451726e53d1f6\AndroidManifest.xml:24:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:16.0.3] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.3.aar\c342245f9a71bb852ae451726e53d1f6\AndroidManifest.xml:31:9-35:19
+MERGED from [com.google.firebase:firebase-firestore:17.1.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-firestore-17.1.0.aar\05d9b03db755c6b494331582897db162\AndroidManifest.xml:14:9-18:19
+MERGED from [com.google.firebase:firebase-firestore:17.1.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-firestore-17.1.0.aar\05d9b03db755c6b494331582897db162\AndroidManifest.xml:14:9-18:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.1.aar\bea1780063152c1def0ab57cb2ba70bd\AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.1.aar\bea1780063152c1def0ab57cb2ba70bd\AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-iid:17.0.2] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.2.aar\a1aaada05b9a93ccd26d92d7e1a22a5b\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:17.0.2] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.2.aar\a1aaada05b9a93ccd26d92d7e1a22a5b\AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.2] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.2.aar\a1aaada05b9a93ccd26d92d7e1a22a5b\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.3] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.3.aar\c342245f9a71bb852ae451726e53d1f6\AndroidManifest.xml:31:18-89
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:16.0.3] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.3.aar\c342245f9a71bb852ae451726e53d1f6\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:16.0.3] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.3.aar\c342245f9a71bb852ae451726e53d1f6\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.3] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.3.aar\c342245f9a71bb852ae451726e53d1f6\AndroidManifest.xml:33:17-109
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:17.1.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-firestore-17.1.0.aar\05d9b03db755c6b494331582897db162\AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:17.1.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-firestore-17.1.0.aar\05d9b03db755c6b494331582897db162\AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:17.1.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-firestore-17.1.0.aar\05d9b03db755c6b494331582897db162\AndroidManifest.xml:16:17-111
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:17.3.2] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-messaging-17.3.2.aar\d702ccc03a0b2da154423f8d9d4d1128\AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:17.3.2] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-messaging-17.3.2.aar\d702ccc03a0b2da154423f8d9d4d1128\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:17.3.2] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-messaging-17.3.2.aar\d702ccc03a0b2da154423f8d9d4d1128\AndroidManifest.xml:29:13-82
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.1.aar\bea1780063152c1def0ab57cb2ba70bd\AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.1.aar\bea1780063152c1def0ab57cb2ba70bd\AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.1.aar\bea1780063152c1def0ab57cb2ba70bd\AndroidManifest.xml:29:17-139
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.firebase:firebase-analytics:16.0.3] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.3.aar\981434b647624d221cccfaa9e10e1e0e\AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.1.aar\6bd56757cdb62b650ecdea108328511a\AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.1.aar\6bd56757cdb62b650ecdea108328511a\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.3] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.3.aar\981434b647624d221cccfaa9e10e1e0e\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.3] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.3.aar\981434b647624d221cccfaa9e10e1e0e\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.3] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.3.aar\981434b647624d221cccfaa9e10e1e0e\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.3] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.3.aar\981434b647624d221cccfaa9e10e1e0e\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.3] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.3.aar\981434b647624d221cccfaa9e10e1e0e\AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.3] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.3.aar\981434b647624d221cccfaa9e10e1e0e\AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.1.aar\6bd56757cdb62b650ecdea108328511a\AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.1.aar\6bd56757cdb62b650ecdea108328511a\AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.3] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.3.aar\981434b647624d221cccfaa9e10e1e0e\AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.3] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.3.aar\981434b647624d221cccfaa9e10e1e0e\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.3] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.3.aar\981434b647624d221cccfaa9e10e1e0e\AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.3] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.3.aar\981434b647624d221cccfaa9e10e1e0e\AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.3] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.3.aar\981434b647624d221cccfaa9e10e1e0e\AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.3] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.3.aar\981434b647624d221cccfaa9e10e1e0e\AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.3] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.3.aar\981434b647624d221cccfaa9e10e1e0e\AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:16.0.3] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.3.aar\981434b647624d221cccfaa9e10e1e0e\AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.3] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.3.aar\981434b647624d221cccfaa9e10e1e0e\AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.3] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.3.aar\981434b647624d221cccfaa9e10e1e0e\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.3] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.3.aar\981434b647624d221cccfaa9e10e1e0e\AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:16.0.3] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.3.aar\981434b647624d221cccfaa9e10e1e0e\AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.3] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.3.aar\981434b647624d221cccfaa9e10e1e0e\AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.3] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.3.aar\981434b647624d221cccfaa9e10e1e0e\AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.3] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.3.aar\981434b647624d221cccfaa9e10e1e0e\AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.3] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.3.aar\981434b647624d221cccfaa9e10e1e0e\AndroidManifest.xml:49:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.2] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.2.aar\a1aaada05b9a93ccd26d92d7e1a22a5b\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.2] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.2.aar\a1aaada05b9a93ccd26d92d7e1a22a5b\AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:17.0.2] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.2.aar\a1aaada05b9a93ccd26d92d7e1a22a5b\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:17.0.2] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.2.aar\a1aaada05b9a93ccd26d92d7e1a22a5b\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.2] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.2.aar\a1aaada05b9a93ccd26d92d7e1a22a5b\AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:17.0.2] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.2.aar\a1aaada05b9a93ccd26d92d7e1a22a5b\AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.2] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.2.aar\a1aaada05b9a93ccd26d92d7e1a22a5b\AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:17.0.2] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.2.aar\a1aaada05b9a93ccd26d92d7e1a22a5b\AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.2] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.2.aar\a1aaada05b9a93ccd26d92d7e1a22a5b\AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.2] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.2.aar\a1aaada05b9a93ccd26d92d7e1a22a5b\AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.2] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.2.aar\a1aaada05b9a93ccd26d92d7e1a22a5b\AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.2] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.2.aar\a1aaada05b9a93ccd26d92d7e1a22a5b\AndroidManifest.xml:42:25-78
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:17.0.2] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.2.aar\a1aaada05b9a93ccd26d92d7e1a22a5b\AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.2] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.2.aar\a1aaada05b9a93ccd26d92d7e1a22a5b\AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.2] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.2.aar\a1aaada05b9a93ccd26d92d7e1a22a5b\AndroidManifest.xml:51:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\23a745de5d2a12d7ed4783b19c99ddc0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\23a745de5d2a12d7ed4783b19c99ddc0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\23a745de5d2a12d7ed4783b19c99ddc0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\23a745de5d2a12d7ed4783b19c99ddc0\AndroidManifest.xml:24:13-79
+uses-permission#com.sec.android.provider.badge.permission.READ
+ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.21.aar\941a3b1b221470e6e1d0c86e62903383\AndroidManifest.xml:19:5-86
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.21.aar\941a3b1b221470e6e1d0c86e62903383\AndroidManifest.xml:19:22-83
+uses-permission#com.sec.android.provider.badge.permission.WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.21.aar\941a3b1b221470e6e1d0c86e62903383\AndroidManifest.xml:20:5-87
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.21.aar\941a3b1b221470e6e1d0c86e62903383\AndroidManifest.xml:20:22-84
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.21.aar\941a3b1b221470e6e1d0c86e62903383\AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.21.aar\941a3b1b221470e6e1d0c86e62903383\AndroidManifest.xml:23:22-78
+uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
+ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.21.aar\941a3b1b221470e6e1d0c86e62903383\AndroidManifest.xml:24:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.21.aar\941a3b1b221470e6e1d0c86e62903383\AndroidManifest.xml:24:22-80
+uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.21.aar\941a3b1b221470e6e1d0c86e62903383\AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.21.aar\941a3b1b221470e6e1d0c86e62903383\AndroidManifest.xml:27:22-85
+uses-permission#com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.21.aar\941a3b1b221470e6e1d0c86e62903383\AndroidManifest.xml:28:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.21.aar\941a3b1b221470e6e1d0c86e62903383\AndroidManifest.xml:28:22-89
+uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
+ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.21.aar\941a3b1b221470e6e1d0c86e62903383\AndroidManifest.xml:31:5-84
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.21.aar\941a3b1b221470e6e1d0c86e62903383\AndroidManifest.xml:31:22-81
+uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.21.aar\941a3b1b221470e6e1d0c86e62903383\AndroidManifest.xml:34:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.21.aar\941a3b1b221470e6e1d0c86e62903383\AndroidManifest.xml:34:22-80
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.21.aar\941a3b1b221470e6e1d0c86e62903383\AndroidManifest.xml:37:5-91
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.21.aar\941a3b1b221470e6e1d0c86e62903383\AndroidManifest.xml:37:22-88
+uses-permission#com.huawei.android.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.21.aar\941a3b1b221470e6e1d0c86e62903383\AndroidManifest.xml:38:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.21.aar\941a3b1b221470e6e1d0c86e62903383\AndroidManifest.xml:38:22-89
+uses-permission#com.huawei.android.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.21.aar\941a3b1b221470e6e1d0c86e62903383\AndroidManifest.xml:39:5-93
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.21.aar\941a3b1b221470e6e1d0c86e62903383\AndroidManifest.xml:39:22-90
+uses-permission#android.permission.READ_APP_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.21.aar\941a3b1b221470e6e1d0c86e62903383\AndroidManifest.xml:42:5-73
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.21.aar\941a3b1b221470e6e1d0c86e62903383\AndroidManifest.xml:42:22-70
+uses-permission#com.oppo.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.21.aar\941a3b1b221470e6e1d0c86e62903383\AndroidManifest.xml:45:5-82
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.21.aar\941a3b1b221470e6e1d0c86e62903383\AndroidManifest.xml:45:22-79
+uses-permission#com.oppo.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.21.aar\941a3b1b221470e6e1d0c86e62903383\AndroidManifest.xml:46:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.21.aar\941a3b1b221470e6e1d0c86e62903383\AndroidManifest.xml:46:22-80
+uses-permission#me.everything.badger.permission.BADGE_COUNT_READ
+ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.21.aar\941a3b1b221470e6e1d0c86e62903383\AndroidManifest.xml:49:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.21.aar\941a3b1b221470e6e1d0c86e62903383\AndroidManifest.xml:49:22-85
+uses-permission#me.everything.badger.permission.BADGE_COUNT_WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.21.aar\941a3b1b221470e6e1d0c86e62903383\AndroidManifest.xml:50:5-89
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.21.aar\941a3b1b221470e6e1d0c86e62903383\AndroidManifest.xml:50:22-86
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:4.34.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\facebook-common-4.34.0.aar\8ec87dc9bb3c22c5e5fef15fe77ee3cc\AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.34.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\facebook-common-4.34.0.aar\8ec87dc9bb3c22c5e5fef15fe77ee3cc\AndroidManifest.xml:33:19-68
+activity#com.twitter.sdk.android.core.identity.OAuthActivity
+ADDED from [com.twitter.sdk.android:twitter-core:3.0.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\twitter-core-3.0.0.aar\8b8dddd7a76f997de19c083d58b74dd3\AndroidManifest.xml:28:9-32:40
+	android:excludeFromRecents
+		ADDED from [com.twitter.sdk.android:twitter-core:3.0.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\twitter-core-3.0.0.aar\8b8dddd7a76f997de19c083d58b74dd3\AndroidManifest.xml:31:13-46
+	android:exported
+		ADDED from [com.twitter.sdk.android:twitter-core:3.0.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\twitter-core-3.0.0.aar\8b8dddd7a76f997de19c083d58b74dd3\AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.twitter.sdk.android:twitter-core:3.0.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\twitter-core-3.0.0.aar\8b8dddd7a76f997de19c083d58b74dd3\AndroidManifest.xml:30:13-59
+	android:name
+		ADDED from [com.twitter.sdk.android:twitter-core:3.0.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\twitter-core-3.0.0.aar\8b8dddd7a76f997de19c083d58b74dd3\AndroidManifest.xml:29:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.1.aar\9be343a219e6a19d94b060f65bd3fa4b\AndroidManifest.xml:10:9-14:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.1.aar\9be343a219e6a19d94b060f65bd3fa4b\AndroidManifest.xml:12:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.1.aar\9be343a219e6a19d94b060f65bd3fa4b\AndroidManifest.xml:13:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.1.aar\9be343a219e6a19d94b060f65bd3fa4b\AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.1.aar\9be343a219e6a19d94b060f65bd3fa4b\AndroidManifest.xml:11:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\b1401747d8eebfbe362e5a7b6e2eb263\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\b1401747d8eebfbe362e5a7b6e2eb263\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\b1401747d8eebfbe362e5a7b6e2eb263\AndroidManifest.xml:24:13-58
+provider#com.facebook.marketing.internal.MarketingInitProvider
+ADDED from [com.facebook.android:facebook-marketing:4.34.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\facebook-marketing-4.34.0.aar\0f64c45f4bdb37c70c198cb94c2a0494\AndroidManifest.xml:29:9-32:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-marketing:4.34.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\facebook-marketing-4.34.0.aar\0f64c45f4bdb37c70c198cb94c2a0494\AndroidManifest.xml:31:13-73
+	android:exported
+		ADDED from [com.facebook.android:facebook-marketing:4.34.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\facebook-marketing-4.34.0.aar\0f64c45f4bdb37c70c198cb94c2a0494\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-marketing:4.34.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\facebook-marketing-4.34.0.aar\0f64c45f4bdb37c70c198cb94c2a0494\AndroidManifest.xml:30:13-81
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:4.34.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\facebook-core-4.34.0.aar\882216bc37cbe66f453514d79f029226\AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:4.34.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\facebook-core-4.34.0.aar\882216bc37cbe66f453514d79f029226\AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.34.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\facebook-core-4.34.0.aar\882216bc37cbe66f453514d79f029226\AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.34.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\facebook-core-4.34.0.aar\882216bc37cbe66f453514d79f029226\AndroidManifest.xml:40:13-70
+receiver#com.facebook.CurrentAccessTokenExpirationBroadcastReceiver
+ADDED from [com.facebook.android:facebook-core:4.34.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\facebook-core-4.34.0.aar\882216bc37cbe66f453514d79f029226\AndroidManifest.xml:44:9-50:20
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.34.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\facebook-core-4.34.0.aar\882216bc37cbe66f453514d79f029226\AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.34.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\facebook-core-4.34.0.aar\882216bc37cbe66f453514d79f029226\AndroidManifest.xml:45:13-86
+intent-filter#action:name:com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:4.34.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\facebook-core-4.34.0.aar\882216bc37cbe66f453514d79f029226\AndroidManifest.xml:47:13-49:29
+action#com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:4.34.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\facebook-core-4.34.0.aar\882216bc37cbe66f453514d79f029226\AndroidManifest.xml:48:17-95
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.34.0] C:\Users\pizone\.gradle\caches\transforms-1\files-1.1\facebook-core-4.34.0.aar\882216bc37cbe66f453514d79f029226\AndroidManifest.xml:48:25-92
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml:1:1-64:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml:1:1-64:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from D:\React Native\EarthquakeApp\Grillo\android\app\src\main\AndroidManifest.xml:1:1-64:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
