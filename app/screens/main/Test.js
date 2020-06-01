@@ -1,31 +1,47 @@
-import React from 'react';
-import { View, StyleSheet } from 'react-native';
-import Icon from 'react-native-vector-icons/Ionicons';
-import { Container, Button, Label } from '@components';
-import { displayNotification } from '../../NotificationHandler';
-import { color } from '@styles';
+//=============================================================================
+// Copyright Grillo Holdings Inc.
+//
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+//
+//    https://www.apache.org/licenses/LICENSE-2.0
+//
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
+// =============================================================================
+
+import React from "react";
+import { View, StyleSheet } from "react-native";
+import Icon from "react-native-vector-icons/Ionicons";
+import { Container, Button, Label } from "@components";
+import { displayNotification } from "../../NotificationHandler";
+import { color } from "@styles";
 
 export default class Test extends React.Component {
   static navigationOptions = {
-    title: 'PRUEBA LA ALERTA',
+    title: "PRUEBA LA ALERTA",
   };
 
-  _displayNotification() { 
+  _displayNotification() {
     const notification = {
-      notificationId: 'notificationId',
-      title: 'Intensidad esperada en tu ubicación',
-      body: '¡Muy Fuerte!',
-      sound: 'notification.wav',
+      notificationId: "notificationId",
+      title: "Intensidad esperada en tu ubicación",
+      body: "¡Muy Fuerte!",
+      sound: "notification.wav",
       data: {
-        "predicted_intensity_tag": "Fuerte",
-        "report_time_utc": "2018-09-04 17:39:43",
-        "latitude": "16.8531",
-        "longitude": "-99.8237",
-        "region": "Acapulco",
-        "predicted_intensity_rgb": "#EF8702"
+        predicted_intensity_tag: "Fuerte",
+        report_time_utc: "2018-09-04 17:39:43",
+        latitude: "16.8531",
+        longitude: "-99.8237",
+        region: "Acapulco",
+        predicted_intensity_rgb: "#EF8702",
       },
-      largeIcon: 'test_tag',
-    }
+      largeIcon: "test_tag",
+    };
     displayNotification(notification);
   }
 
@@ -33,11 +49,18 @@ export default class Test extends React.Component {
     return (
       <Container>
         <View style={styles.container}>
-          <Label fontSize={10} style={styles.label}>Probar la alarma</Label>
-          <Label fontSize={4} style={styles.label}>
-            En caso de sismo aparecerá una notificación y el sonido de la alarma se activará.
+          <Label fontSize={10} style={styles.label}>
+            Probar la alarma
           </Label>
-          <Button onPress={() => this._displayNotification()} circle style={styles.button}>
+          <Label fontSize={4} style={styles.label}>
+            En caso de sismo aparecerá una notificación y el sonido de la alarma
+            se activará.
+          </Label>
+          <Button
+            onPress={() => this._displayNotification()}
+            circle
+            style={styles.button}
+          >
             <Icon name="ios-notifications" style={styles.icon} />
           </Button>
         </View>
@@ -49,13 +72,13 @@ export default class Test extends React.Component {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    alignItems: 'center',
-    justifyContent: 'center',
-    padding: 20
+    alignItems: "center",
+    justifyContent: "center",
+    padding: 20,
   },
   label: {
-    textAlign: 'center',
-    marginVertical: 10
+    textAlign: "center",
+    marginVertical: 10,
   },
   button: {
     height: 60,
@@ -65,11 +88,10 @@ const styles = StyleSheet.create({
     shadowOpacity: 0.4,
     shadowOffset: { width: 0, height: 1 },
     marginVertical: 10,
-    marginTop: 50
+    marginTop: 50,
   },
   icon: {
     fontSize: 25,
-    color: color.white
-  }
+    color: color.white,
+  },
 });
-
