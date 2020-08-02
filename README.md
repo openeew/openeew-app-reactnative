@@ -21,7 +21,7 @@ You can download a free working example for Mexico and Chile here:
 - [iOS](https://apps.apple.com/us/app/grillo/id1437900025)
 ___
 
-Enjoy!  Give us [feedback](https://github.com/grillo/openeew-reactnative/issues) if you have suggestions on how to improve these apps.
+Enjoy!  Give us [feedback](https://github.com/openeew/openeew-app-reactnative/issues) if you have suggestions on how to improve these apps.
 
 ## License
 
