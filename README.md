@@ -1,11 +1,11 @@
 # React-Native Earthquake Early-Warning App
 Create an earthquake early-warning (EEW) app that receives FCM notifications, and visualizes an API of historic earthquakes.
 
-The user is registered through Firebase authentication, and the app uses the user location to calculate percieved intensity of an earthquake. This is done by calculating distance to the event and determining the loss in energy of the seismic.
+The user is registered through Firebase authentication, and the app uses the user location to calculate perceived intensity of an earthquake. This is done by calculating distance to the event and determining the loss in energy of the seismic activity.
 
-The app also allows setting of country, testing of alarm, and browsing of previous alert events.
+The app also allows setting country, testing of alarm, and browsing of previous alert events.
 
-Alerts are only made to notify if they result in a user intensity of more than 'Debil' ie light.
+Alerts are only made to notify if they result in a user intensity of more than 'Debil', i.e. light.
 
 ---
 ### Screenshots
@@ -21,7 +21,7 @@ You can download a free working example for Mexico and Chile here:
 - [iOS](https://apps.apple.com/us/app/grillo/id1437900025)
 ___
 
-Enjoy!  Give us [feedback](https://github.com/grillo/openeew-nodered/issues) if you have suggestions on how to improve this tutorial.
+Enjoy!  Give us [feedback](https://github.com/grillo/openeew-reactnative/issues) if you have suggestions on how to improve these apps.
 
 ## License
 
